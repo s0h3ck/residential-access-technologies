@@ -1,6 +1,10 @@
 # Residential-access-technologies
 
-* [Afganistan](residential-access-technologies.md#Afganistan) ([wiki](https://en.wikipedia.org/wiki/Internet_in_Afghanistan))
+* [Afghanistan](residential-access-technologies.md#afghanistan) ([wiki](https://en.wikipedia.org/wiki/Internet_in_Afghanistan))
+* .
 * 
+* 
+* [Zimbabwe](residential-access-technologies.md#zimbabwe) ([wiki](https://en.wikipedia.org/wiki/Internet_in_Zimbabwe))
 
-## Afganistan
+## Afghanistan
+## Zimbabwe
